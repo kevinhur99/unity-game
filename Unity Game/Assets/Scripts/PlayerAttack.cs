@@ -36,7 +36,7 @@ public class PlayerAttack : MonoBehaviour
 
         endPos = startPos + (direction.normalized * range);
 
-        weapon.Attack(endPos);
+        weapon.Fire(endPos);
     }
 
     void OnDrawGizmos()
