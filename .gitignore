@@ -61,3 +61,4 @@ crashlytics-build.properties
 
 Unity Game/Assets/Scenes/SampleScene.unity
 Unity Game/.vsconfig
+Unity Game/Assets/Scenes/SampleScene.unity.meta
